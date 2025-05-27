@@ -10,39 +10,39 @@ const navLinks = [
   {
     name: "About",
     href: "/about",
-    dropdown: [
-      { name: "About Lord Hanuman", href: "/about/hanuman" },
-      { name: "About Swami", href: "/about/swami" },
-      { name: "Our Mission", href: "/about/mission" },
-      { name: "Temple Services", href: "/about/services" },
-      { name: "Visit Us", href: "/about/visit" },
-      { name: "Support the Temple", href: "/about/support" },
-    ],
+    // dropdown: [
+    //   { name: "About Lord Hanuman", href: "/about/hanuman" },
+    //   // { name: "About Swami", href: "/about/swami" },
+    //   // { name: "Our Mission", href: "/about/mission" },
+    //   // { name: "Temple Services", href: "/about/services" },
+    //   // { name: "Visit Us", href: "/about/visit" },
+    //   // { name: "Support the Temple", href: "/about/support" },
+    // ],
   },
   {
     name: "Temples",
     href: "/temples",
-    dropdown: [
-      { name: "Main Temple", href: "/temples/main" },
-      { name: "Associated Temples", href: "/temples/associated" },
-    ],
+    // dropdown: [
+    //   { name: "Main Temple", href: "/temples/main" },
+    //   { name: "Associated Temples", href: "/temples/associated" },
+    // ],
   },
   {
     name: "Festivals & Events",
     href: "/events",
-    dropdown: [
-      { name: "Upcoming Events", href: "/events/upcoming" },
-      { name: "Calendar", href: "/events/calendar" },
-      { name: "Abhishekam Booking", href: "/events/booking" },
-    ],
+    // dropdown: [
+    //   { name: "Upcoming Events", href: "/events/upcoming" },
+    //   { name: "Calendar", href: "/events/calendar" },
+    //   { name: "Abhishekam Booking", href: "/events/booking" },
+    // ],
   },
   {
     name: "Resources",
     href: "/resources",
-    dropdown: [
-      { name: "Articles", href: "/resources/articles" },
-      { name: "Teachings", href: "/resources/teachings" },
-    ],
+    // dropdown: [
+    //   { name: "Articles", href: "/resources/articles" },
+    //   { name: "Teachings", href: "/resources/teachings" },
+    // ],
   },
   { name: "Contact Us", href: "/contact" },
 ]

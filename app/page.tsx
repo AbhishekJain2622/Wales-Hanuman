@@ -40,10 +40,10 @@ export default function Home() {
         </div>
         <div className="container mx-auto px-4 relative z-10 text-center text-white">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 text-primary-gold drop-shadow-lg">
-            Welcome to Wales Hanuman Temple
+            Jai Sri Ram! 
           </h1>
           <p className="text-xl md:text-2xl max-w-3xl mx-auto mb-8">
-            A sacred space dedicated to Lord Hanuman, offering spiritual guidance and community service
+Welcome to Wales Hanuman, a sacred temple devoted to Lord Hanuman and revered spiritual gurus.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link
